@@ -1,0 +1,22 @@
+img {
+    height: 25px;
+    width: 25px;
+}
+img.card-img-top {
+    height: 250px;
+}
+.first {
+    background: #808080;
+}
+.second {
+    background: #202020;
+}
+.third{
+    background: #202530;
+}
+.my-div-scroll.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+ 
